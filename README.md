@@ -1,6 +1,8 @@
 # keyword-relevance-joined
 
-Keyword-based relevance scoring that evaluates all keywords in a single prompt.
+An [ObjectiveAI](https://objective-ai.io) Function for keyword-based relevance scoring that evaluates all keywords in a single prompt.
+
+> **ObjectiveAI** is a platform for scoring, ranking, and simulating preferences using ensembles of LLMs. Learn more at [objective-ai.io](https://objective-ai.io) or see the [GitHub repository](https://github.com/ObjectiveAI/objectiveai).
 
 ## Overview
 
