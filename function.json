@@ -67,7 +67,10 @@
         ]
       }
     },
-    "required": ["keywords", "content"]
+    "required": [
+      "keywords",
+      "content"
+    ]
   },
   "tasks": [
     {
@@ -92,7 +95,11 @@
           ]
         }
       ],
-      "responses": ["Extremely Relevant", "Somewhat Relevant", "Not Relevant"]
+      "responses": [
+        "Extremely Relevant",
+        "Somewhat Relevant",
+        "Not Relevant"
+      ]
     }
   ],
   "output": {
